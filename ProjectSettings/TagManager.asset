@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Box
+  - EndOfLevel
+  - WallBox
+  - CatWalk
+  - 5 Step ClimbWall
+  - Bridge
+  - Road
+  - DeadZone
+  - 4 Step ClimbWall
+  - Gem
+  - EndWall
+  - +3 Box
+  - +10 Box
+  - +5 Box
+  - -3 Box
+  - +1 Box
+  - -5 Box
+  - ArcadeArea
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
